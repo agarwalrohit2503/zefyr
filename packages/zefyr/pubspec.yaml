@@ -15,7 +15,7 @@ dependencies:
   quill_delta: ^1.0.0-dev.1.0
   notus:
     git:
-      url: git://github.com/chocovish/notus.git
+      url: git://github.com/agarwalrohit2503/notus.git
   meta: ^1.1.0
   quiver_hashcode: ^2.0.0
 
