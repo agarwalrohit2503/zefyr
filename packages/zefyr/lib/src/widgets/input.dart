@@ -9,6 +9,7 @@ typedef RemoteValueChanged = Function(
     int start, String deleted, String inserted, TextSelection selection);
 
 class InputConnectionController implements TextInputClient {
+    AutofillScope get currentAutofillScope => null;
   InputConnectionController(this.onValueChanged)
       : assert(onValueChanged != null);
 
