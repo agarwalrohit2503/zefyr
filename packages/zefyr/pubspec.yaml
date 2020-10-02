@@ -13,9 +13,9 @@ dependencies:
   collection: ^1.14.6
   url_launcher: ^5.0.0
   quill_delta: ^1.0.0-dev.1.0
-  notus:
-    git:
-      url: git://github.com/agarwalrohit2503/notus.git
+  notus: ^0.1.5
+#     git:
+#       url: git://github.com/agarwalrohit2503/notus.git
   meta: ^1.1.0
   quiver_hashcode: ^2.0.0
 
